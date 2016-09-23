@@ -1,2 +1,2 @@
 # breakoutGame
-A basic single html canvas game made with vanilla javascript.
+A basic single html canvas game made with javascript.
